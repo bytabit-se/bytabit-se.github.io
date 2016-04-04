@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bytabit</title>
+    <description>The Bytabit Fiat Trader project.</description>
+    <link>http://bytabit.org/</link>
+    <atom:link href="http://bytabit.org/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 22 Mar 2016 17:34:12 -0700</pubDate>
+    <lastBuildDate>Tue, 22 Mar 2016 17:34:12 -0700</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Blog: Beta Demo Video</title>
+        <description>&lt;p&gt;See below for a beta demo of &lt;strong&gt;Fiat Trader&lt;/strong&gt; happy path and unhappy path trades.&lt;/p&gt;
+
+&lt;p&gt;The happy path is when the seller correctly delivers the sold fiat currency to the buyer and the buyer correctly acknowledges receipt of the fiat currency and releases the escrowed bitcoin used to buy the fiat currency to the seller. On releasing the bitcoin to the seller both buyer and seller are also refunded for their unused trade bonds and arbitrator fees.&lt;/p&gt;
+
+&lt;p&gt;The unhappy path is when the seller does NOT delivers the sold fiat currency to the buyer or the buyer does NOT correctly acknowledges receipt of the fiat currency. In this scenario the buyer or seller requests that the arbitrator review evidence that the fiat currency was delivered or not. Based on what the arbitrator finds either the trade goes through and the seller receives their bitcoin payment (plus the buyers bond/deposit amount).  Or the buyer is refunded their escrowed bitcoin (plus the sellers bond/deposit). The losing party in each case must also pay the arbitrator fee.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://www.youtube.com/embed/TlgB1BJDOk4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Tue, 22 Mar 2016 13:07:00 -0700</pubDate>
+        <link>http://bytabit.org/blog/video/beta-demo-video</link>
+        <guid isPermaLink="true">http://bytabit.org/blog/video/beta-demo-video</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>video</category>
+        
+      </item>
+    
+      <item>
+        <title>Question: How to Install Fiat Trader?</title>
+        <description>&lt;p&gt;Please see the Bytabit Fiat Trader &lt;a href=&quot;https://bitbucket.org/bytabit/fiat-trader&quot; target=&quot;_blank&quot;&gt;README.md&lt;/a&gt; file for detailed instructions.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Feb 2016 08:54:46 -0800</pubDate>
+        <link>http://bytabit.org/question/help/how-to-install</link>
+        <guid isPermaLink="true">http://bytabit.org/question/help/how-to-install</guid>
+        
+        
+        <category>question</category>
+        
+        <category>help</category>
+        
+      </item>
+    
+      <item>
+        <title>Blog: Hello World</title>
+        <description>&lt;p&gt;We are pleased to announce the &lt;strong&gt;Bytabit Fiat Trader&lt;/strong&gt; project and to make public our current prototype code. We are currently heads down focused on coding and may not post updates here as often as we would like. But please check out our &lt;a href=&quot;https://bitbucket.org/bytabit/fiat-trader&quot; target=&quot;_blank&quot;&gt;Bitbucket repository&lt;/a&gt; to see our most recent work. Once our alpha release is ready for testing we will post all the details.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Feb 2016 08:54:46 -0800</pubDate>
+        <link>http://bytabit.org/blog/news/hello-world</link>
+        <guid isPermaLink="true">http://bytabit.org/blog/news/hello-world</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Doc: Overview Slides</title>
+        <description>&lt;p&gt;See below for a high level overview of the process Fiat Trader uses to trade fiat currency for bitcoin.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://docs.google.com/presentation/d/1kSIRE0mnj0vCQqWg40I0Ns49ON62TeHDvziRkgQGBNM/embed?start=false&amp;amp;loop=false&amp;amp;delayms=3000&quot; frameborder=&quot;0&quot; width=&quot;640&quot; height=&quot;390&quot; allowfullscreen=&quot;true&quot; mozallowfullscreen=&quot;true&quot; webkitallowfullscreen=&quot;true&quot;&gt;&lt;/iframe&gt;
+
+&lt;!--more--&gt;
+</description>
+        <pubDate>Thu, 04 Feb 2016 08:54:46 -0800</pubDate>
+        <link>http://bytabit.org/doc/design/overview-slides</link>
+        <guid isPermaLink="true">http://bytabit.org/doc/design/overview-slides</guid>
+        
+        
+        <category>doc</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+  </channel>
+</rss>
